@@ -6,6 +6,14 @@ stacks.stacks_in_22 = {};
 stacks.stacks_in_22 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;// Start Responsive Shim stack Javascript code$(document).ready(function() {});// End Responsive Shim stack Javascript code
 return stack;})(stacks.stacks_in_22);
+stacks.stacks_in_123 = {};
+stacks.stacks_in_123 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;// Start Responsive Shim stack Javascript code$(document).ready(function() {});// End Responsive Shim stack Javascript code
+return stack;})(stacks.stacks_in_123);
+stacks.stacks_in_124 = {};
+stacks.stacks_in_124 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;// Start Responsive Shim stack Javascript code$(document).ready(function() {});// End Responsive Shim stack Javascript code
+return stack;})(stacks.stacks_in_124);
 stacks.stacks_in_102 = {};
 stacks.stacks_in_102 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;/*
@@ -831,7 +839,3 @@ stacks.stacks_in_95 = {};
 stacks.stacks_in_95 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;// Start Responsive Shim stack Javascript code$(document).ready(function() {});// End Responsive Shim stack Javascript code
 return stack;})(stacks.stacks_in_95);
-stacks.stacks_in_57 = {};
-stacks.stacks_in_57 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;// Start Responsive Shim stack Javascript code$(document).ready(function() {});// End Responsive Shim stack Javascript code
-return stack;})(stacks.stacks_in_57);

@@ -21,6 +21,10 @@ function resetMsgs(){
 setInterval(resetMsgs, 7250);   
 });
 return stack;})(stacks.stacks_in_192);
+stacks.stacks_in_211 = {};
+stacks.stacks_in_211 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;// Start Responsive Shim stack Javascript code$(document).ready(function() {});// End Responsive Shim stack Javascript code
+return stack;})(stacks.stacks_in_211);
 stacks.stacks_in_162 = {};
 stacks.stacks_in_162 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;// Start Responsive Shim stack Javascript code$(document).ready(function() {});// End Responsive Shim stack Javascript code
